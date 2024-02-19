@@ -1,4 +1,6 @@
-title: Minima theme
-description: Minima is a theme for GitHub Pages.
-google_analytics:
-theme: jekyll-theme-minima
+# Site settings
+title: Fabio Cezar Blog
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
