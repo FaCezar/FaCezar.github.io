@@ -1,8 +1,10 @@
+---
 layout: post
 title: Things i like to do 
 subtitle: when i don't have to work, wich is actually all the time
 cover-img: /assets/img/path.jpg
 author: Fabio Cezar
+---
 
 
 
