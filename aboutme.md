@@ -13,4 +13,4 @@ Give me a good grade please ?
 
 ### My story
 
-Mostly boring with a lot of sleepless nights, but one thing i can reinforce to you; I'M NOT A DEV
+Mostly boring with a lot of sleepless nights, but one thing i can reinforce to you: I'M NOT A DEV
